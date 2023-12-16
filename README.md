@@ -1,6 +1,6 @@
 # School Recommendation with SQL
 This project aims to resolve the problem of choosing the best school based on the conditions:
-- Must be in urban area
+- in urban area
 - top city ranking
 - lowest crime rate
 - must have the target course
